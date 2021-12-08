@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:link: Let's connect! :arrow_right:  [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-felipe-fantin/)
+:link: Let's connect! :arrow_right:  [LinkedIn](https://www.linkedin.com/in/luis-felipe-fantin/)
 
 <!--
 **LuisFelipeFantin/LuisFelipeFantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
